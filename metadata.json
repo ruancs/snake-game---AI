@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Snake Game",
+  "description": "A classic snake game built with React and TypeScript. This web application provides a windowed gaming experience on Windows and other operating systems through a web browser. Use the WASD keys to control the snake and eat the food to grow.",
+  "requestFramePermissions": []
+}
